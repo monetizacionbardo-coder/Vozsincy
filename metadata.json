@@ -1,0 +1,6 @@
+{
+  "name": "VozSync",
+  "description": "Bilingual video voiceover synchronization studio powered by Gemini TTS, featuring scene cut detection, editable scene scripts, tempo-matched narration assembly, optional background music mixing, and MP4/WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
